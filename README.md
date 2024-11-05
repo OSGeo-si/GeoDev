@@ -51,8 +51,6 @@ us by opening an issue in this repository.
 * [ ] Announce the event on Facebook.
 * [ ] Announce the event on Discord.
 * [ ] Announce the event via mailing list. (Should we do this?)
-* [ ] Buy drinks.
-* [ ] Order pizzas.
 * [ ] Come to venue 30 minutes before the event starts.
 * [ ] Prepare the projector and the screen.
 * [ ] Update the GitHub repository with the new event details.
