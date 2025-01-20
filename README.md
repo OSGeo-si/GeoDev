@@ -8,15 +8,17 @@ This GitHub repository is place to store all Meetup Materials, presentations and
 
 🎉 GeoDev is back! 🎉
 
-__Date__: Wednesday, 20.11.2024 at 18:00
-__Location__: [Računalniški muzej](https://www.racunalniski-muzej.si/), Celovška cesta 111, 1000 Ljubljana
+__Datum__: Sreda, 29.01.2025 ob 18:00
+__Lokacija__: [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/), Trnovski pristan 2, 1000 Ljubljana
+[Vhod iz pasaže](https://www.openstreetmap.org/node/12504450770), predavalnica se nahaja v 2. nadstropju.
 
-More details can be found here [GeoDev Meetup #11](2024-11-meetup/README.md).
+
+More details can be found here [GeoDev Meetup #12](2025-12-meetup/README.md).
 
 Draft roadmap for the next meetups:
 
-* 2024-11-20: GeoDev Meetup #11       ✅   
-* __January__: GeoDev Meetup #12      🎯
+* __20.11.2024__: GeoDev Meetup #11       ✅   
+* __29.01.2025__: GeoDev Meetup #12      ✅
 * __March__: GeoDev Meetup #13        🎯
 * __April__: GeoDev Meetup #14        🎯
 
@@ -31,6 +33,16 @@ Just open an issue in this repository.
 * Can we serve vector tiles from PostGIS (we do not have time to setup a Geoserver)?
 * Overview of web-based mapping libraries like Openlayers, Leaflet.
 * More about PostGis
+* GIT
+* [Kart](https://t.co/FSZ3V6t1NM)
+* Docker
+* Public speaking
+* GeoPackage
+* Račke 
+* Koordinatni sistemi
+* COG
+* LAS/LAZ-COPC
+* Conda / Mamba
 
 
 ## Supporters 💸
@@ -45,7 +57,8 @@ us by opening an issue in this repository.
 * [ ] Find speakers (2).
 * [ ] Find a sponsor for rent, pizzas and drinks.
 * [ ] Update the GitHub repository with the new event details.
-* [ ] Announce the event on Meetup.
+* [ ] Announce the event on Mailing list (MailChimp).
+* [ ] Announce the event on OS Geo WebPAge.
 * [ ] Announce the event on Facebook.
 * [ ] Announce the event on Discord.
 * [ ] Announce the event via mailing list. (Should we do this?)

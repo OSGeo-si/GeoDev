@@ -3,15 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (flai_mvn_zoning)" />
   </component>
-  <component name="MaterialThemeProjectNewConfig">
-    <option name="metadata">
-      <MTProjectMetadataState>
-        <option name="migrated" value="true" />
-        <option name="pristineConfig" value="false" />
-        <option name="userId" value="45003855:1852b01ef83:-7ffc" />
-        <option name="version" value="8.13.2" />
-      </MTProjectMetadataState>
-    </option>
-  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (flai_mvn_zoning)" project-jdk-type="Python SDK" />
 </project>
