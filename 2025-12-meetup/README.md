@@ -24,7 +24,9 @@ Ta raca je veliko hitrejša od knjižnice pandas.
 
 [Alen Mangafić](https://www.linkedin.com/in/alen-mangafi%C4%87-550780138/), Geodetski inštitut Slovenije
 
-__Orodje za prikaz in urejanje 3D modelov v enem spletnem oknu na podlagi preproste kode iz več OS projektov.__
+__Orodje za prikaz 3D modelov v spletnem brskalniku na podlagi OS projektov.__
+
+Prikaz različnih 3D prostorskih podatkov (oblaki točk, georeferencirane slike, sferne slike, geometrijskih elementov, BIM,…) na podlagi OS kode direktno v spletnem brskalniku.
 
 [Nejc Krašovec](https://www.linkedin.com/in/nejckrasovec/)
 
