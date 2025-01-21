@@ -10,7 +10,7 @@
 
 ## Program
 
-__Kaj se s temi račkami?__
+__Kaj je s temi račkami?__
 
 Svet je poln orodij, poimenovanih po živalih. Leto je 2025, in race so huda konkurenca slonom ter pandam. V tem kratkem predavanju bomo predstavili orodji DuckDB in FireDucks – hitra, učinkovita orodja, ki omogočajo hitrejšo obdelavo podatkov. 
 
