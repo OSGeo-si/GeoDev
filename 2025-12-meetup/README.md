@@ -44,5 +44,3 @@ Za sklepčnost pri spremembi statuta potrebujemo vsaj 10 članic in članov dru�
 Dogodek je zastonj in odprt vsem. Pridruži se zabavnemu in poučnemu večeru z drugimi razvijalci in navdušenci nad geoprostorskimi podatki.
 Dogodek in prostor je omogočil [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/). 
 
-
-
