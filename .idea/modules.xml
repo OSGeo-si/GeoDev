@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/GeoDev.iml" filepath="$PROJECT_DIR$/.idea/GeoDev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../landing-page/.idea/landing-page.iml" filepath="$PROJECT_DIR$/../landing-page/.idea/landing-page.iml" />
     </modules>
   </component>
 </project>
