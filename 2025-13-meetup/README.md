@@ -3,7 +3,7 @@
 
 📍 __Lokacija:__  [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/), Trnovski pristan 2, 1000 Ljubljana. [Vhod iz pasaže](https://www.openstreetmap.org/node/12504450770), predavalnica se nahaja v 2. nadstropju
 
-📅 __Datum:__ četrtek, 10. marec 2025
+📅 __Datum:__ četrtek, 10. april 2025
 
 🕕 __Čas:__ 18.00
 
