@@ -1,4 +1,4 @@
-# GeoDev Meetup #12
+# GeoDev Meetup #13
 
 
 📍 __Lokacija:__  [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/), Trnovski pristan 2, 1000 Ljubljana. [Vhod iz pasaže](https://www.openstreetmap.org/node/12504450770), predavalnica se nahaja v 2. nadstropju
