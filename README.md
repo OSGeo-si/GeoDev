@@ -53,7 +53,8 @@ us by opening an issue in this repository.
 
 ## Checklist for Organizers 🔖
 
-* [ ] Reserve the location.
+* [ ] Use Checklist for organizing the event.
+* [ ] Reserve the location, date and time.
 * [ ] Find speakers (2).
 * [ ] Find a sponsor for rent, pizzas and drinks.
 * [ ] Update the GitHub repository with the new event details.
@@ -61,7 +62,6 @@ us by opening an issue in this repository.
 * [ ] Announce the event on OS Geo WebPAge.
 * [ ] Announce the event on Facebook.
 * [ ] Announce the event on Discord.
-* [ ] Announce the event via mailing list. (Should we do this?)
 * [ ] Come to venue 30 minutes before the event starts.
 * [ ] Prepare the projector and the screen.
 * [ ] Update the GitHub repository with the new event details.
