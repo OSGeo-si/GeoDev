@@ -1,0 +1,12 @@
+{
+  "name": "geodev-scripts",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Helper scripts for the GeoDev meetup repo (banner rendering, etc.).",
+  "scripts": {
+    "banner-to-png": "node banner-to-png.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  }
+}
