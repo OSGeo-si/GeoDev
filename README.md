@@ -50,6 +50,59 @@ Become a supporter of GeoDev Meetup Slovenia. If you are interested in supportin
 us by opening an issue in this repository.
 
 
+## Publishing a New Event 📣
+
+Step-by-step guide for adding a new GeoDev event across this repo, the [landing-page](https://github.com/OSGeo-si/landing-page) and the social channels. This is the workflow established with #15.
+
+**1. Plan**
+* Pick the next sequential number `N` and confirm date, time, venue, speakers.
+
+**2. Add the event to this repo** (`OSGeoSi/GeoDev/`)
+* Create folder `YYYY-N-meetup/` (year = event year, `N` = sequential meetup number).
+* Copy `2026-15-meetup/README.md` as template; update title, date, location, the three program blocks (title, time-range, abstract, speaker) and the registration link in "Ostalo".
+* Copy the three banner HTMLs from the previous event folder (`banner-story.html`, `banner-landscape.html`, `banner-square.html`); edit content. See [CLAUDE.md](CLAUDE.md) for naming/template conventions.
+* Update top-level `README.md`: change the "Next Meetups" headline date and link, mark the previous event ✅ and add a new row 🎯 to the roadmap.
+
+**3. Add the event to the [landing-page](https://github.com/OSGeo-si/landing-page) repo**
+* Create `content/events/geodev/geodev-N.md` with frontmatter (`title`, `slug`, `date`, `time`, `location`, `lat`, `lng`, `eventUrl`, `tags: [geodev]`).
+* Body: short intro + the program. Keep abstracts to roughly one paragraph each — long abstracts make the event page hard to skim.
+* After the meetup, drop photos into `content/events/geodev/geodev-N/`.
+
+**4. Create the Luma event** (https://lu.ma)
+* Title `GeoDev Slovenija #N`, set date/time/location, capacity (50 default), free, theme "Minimalna".
+* Use `banner-square.html` rendered PNG as the cover image.
+* Copy the rendered Luma description from `najava.md` § 3 into the "Dodaj opis" field.
+* Grab the short URL (e.g. `https://luma.com/<code>`) and paste it into:
+   * This event's `README.md` ("Ostalo" → registration link)
+   * The landing-page frontmatter (`eventUrl`)
+   * `najava.md` (replace `{{LUMA_URL}}` placeholders everywhere)
+
+**5. Render the banners to PNG**
+```sh
+cd scripts && npm install && npx playwright install chromium   # one-time
+node banner-to-png.js ../YYYY-N-meetup/banner-*.html
+```
+Outputs `banner-*.png` next to each source HTML at 2× device pixel ratio.
+
+**6. Compose promo copy**
+* Copy `2026-15-meetup/najava.md` as template; rewrite for the new event.
+* It already contains LinkedIn, newsletter, Luma description, Discord/Facebook, Twitter/X, and a short OSGeo-website blurb.
+
+**7. Publish across channels** (in this order)
+* [ ] Luma event live
+* [ ] Landing-page deployed with the new event entry
+* [ ] MailChimp newsletter sent
+* [ ] LinkedIn post
+* [ ] Discord announcement
+* [ ] Facebook post
+* [ ] Optional: Twitter/X, Meetup.com group
+
+**8. After the event**
+* Add speaker slides to `YYYY-N-meetup/0X-<slug>/` (one subfolder per talk).
+* Drop photos into `YYYY-N-meetup/photos/` and into the landing-page event folder.
+* Mark the event ✅ on the roadmap.
+
+
 ## Checklist for Organizers 🔖
 
 * [ ] Use Checklist for organizing the event.

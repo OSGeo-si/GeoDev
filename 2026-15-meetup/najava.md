@@ -29,7 +29,7 @@ Storitev, ki z LLM analizo občinskih oglasnih desk po vsej Sloveniji samodejno 
 → **Točno opoldne na robu vesolja** · *Tomaž Šturm, OSGeo Slovenija*
 O strogih pravilih vesoljske navigacije in natančnosti, ki nas v oddaljene galaksije popelje varno in ob pravem času.
 
-Dogodek je **brezplačen** in odprt vsem — od navdušencev do GIS profesionalcev. Omejeno število mest, zato priporočamo prijavo: https://luma.com/n0xccp20 🦝
+Dogodek je **brezplačen** in odprt vsem — od navdušencev do GIS profesionalcev. Omejeno število mest, zato priporočamo prijavo: https://osgeo.si/#/dogodki/geodev-15 🦝
 
 #GeoDev #OSGeo #Slovenija #GIS #PostGIS #OpenSource #Geospatial #AI #LLM #Ljubljana
 
@@ -141,7 +141,7 @@ Tri predavanja:
 • **Objavnik.si** (Jaša Dimič, PRIOT)
 • **Točno opoldne na robu vesolja** (Tomaž Šturm, OSGeo Slovenija)
 
-Brezplačno · omejeno število mest. Prijava → https://luma.com/n0xccp20
+Omejeno število mest. Več o programu in prijava → https://osgeo.si/#/dogodki/geodev-15
 
 ---
 
