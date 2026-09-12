@@ -58,7 +58,7 @@ SLOnček je odprtokodna platforma za avtomatizirano pridobivanje, upravljanje in
 **18.30 — FOSS4G 2026: kaj nas je sezulo**
 *Alen Mangafić, OSGeo Slovenija*
 
-Letošnja svetovna konferenca FOSS4G je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Alen bo strnil vtise in predstavil tehnične novosti, ki so nas najbolj navdušile: nove različice ključnih odprtokodnih orodij, formate in standarde, ki se uveljavljajo, ter projekte, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
+Letošnja svetovna konferenca FOSS4G je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Strnili bomo vtise s konference in dogajanja nasploh ter predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
 
 **19.00 — Druženje in mreženje ob pijači**
 
@@ -105,7 +105,7 @@ SLOnček je odprtokodna platforma za avtomatizirano pridobivanje, upravljanje in
 **18.30 · FOSS4G 2026: kaj nas je sezulo**
 *Alen Mangafić — OSGeo Slovenija*
 
-Letošnja svetovna konferenca FOSS4G je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Strnili bomo vtise in predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
+Letošnja svetovna konferenca FOSS4G je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Strnili bomo vtise s konference in dogajanja nasploh ter predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
 
 **19.00 · Druženje in mreženje ob pijači**
 

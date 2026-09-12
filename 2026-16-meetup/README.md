@@ -22,7 +22,7 @@ Simon Koblar in Jakob Kmetič, Urbanistični inštitut RS; Matjaž Mori, ZUM d.o
 
 __FOSS4G 2026: kaj nas je sezulo__
 18:30 - 19:00
-Letošnja svetovna konferenca [FOSS4G](https://2026.foss4g.org/en/) je od 30. avgusta do 5. septembra potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. V predavanju bomo strnili vtise iz Hirošime in predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati v prihodnjem letu. Kaj se dogaja v svetovni OSGeo skupnosti, kaj od tega lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
+Letošnja svetovna konferenca [FOSS4G](https://2026.foss4g.org/en/) je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Strnili bomo vtise s konference in dogajanja nasploh ter predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
 
 Alen Mangafić, OSGeo Slovenija
 
