@@ -2,7 +2,7 @@
 
 Besedila za napoved šestnajstega GeoDev srečanja na različnih kanalih.
 **Datum:** sreda, 23. september 2026, 18.00 · **Lokacija:** Urbanistični inštitut RS, Ljubljana · **Kapaciteta:** 50
-**Prijava:** <{{LUMA_URL}}> · **Teams (na daljavo):** <https://teams.microsoft.com/meet/396308877197169?p=JiPjaIa9pvN7cJ6zLf>
+**Prijava:** <https://luma.com/xbu56l9s> · **Teams (na daljavo):** <https://teams.microsoft.com/meet/396308877197169?p=JiPjaIa9pvN7cJ6zLf>
 **GitHub:** <https://github.com/OSGeo-si/GeoDev/blob/master/2026-16-meetup/README.md> · **Spletna stran:** <https://osgeo.si/#/dogodki/geodev-16>
 
 ---
@@ -72,7 +72,7 @@ Predavalnica v 2. nadstropju, vhod iz pasaže.
 
 Dogodek je **brezplačen** in odprt vsem. Število mest je omejeno (50), zato priporočamo prijavo:
 
-👉 **[Prijavi se na dogodek]({{LUMA_URL}})**
+👉 **[Prijavi se na dogodek](https://luma.com/xbu56l9s)**
 
 📹 Dogodek se bo **snemal**. Z udeležbo na dogodku soglašaš s snemanjem.
 
@@ -138,7 +138,7 @@ Dve predavanji:
 • **SLOnček: odprta platforma za replikacijo, upravljanje in analizo prostorskih podatkov** (Simon Koblar in Jakob Kmetič, UIRS; Matjaž Mori, ZUM)
 • **FOSS4G 2026: kaj nas je sezulo** (Alen Mangafić, Geodetski inštitut Slovenije in OSGeo Slovenija)
 
-Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
+Omejeno število mest. Več o programu in prijava → https://luma.com/xbu56l9s
 
 📹 Dogodek se snema. Na daljavo: Teams → https://teams.microsoft.com/meet/396308877197169?p=JiPjaIa9pvN7cJ6zLf (Meeting ID 396 308 877 197 169, geslo objavimo tukaj uro pred dogodkom).
 
@@ -150,7 +150,7 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-🌍 GeoDev #16 — 23. sep 2026, 18.00 @ UIRS Ljubljana. Dve predavanji: SLOnček (odprta replikacija slovenskih prostorskih podatkov v PostGIS) · FOSS4G 2026: kaj nas je sezulo v Hirošimi. Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
+🌍 GeoDev #16 — 23. sep 2026, 18.00 @ UIRS Ljubljana. Dve predavanji: SLOnček (odprta replikacija slovenskih prostorskih podatkov v PostGIS) · FOSS4G 2026: kaj nas je sezulo v Hirošimi. Brezplačno, prijava: https://luma.com/xbu56l9s #GeoDev #OSGeo #GIS
 
 ---
 
@@ -160,4 +160,4 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-**GeoDev Meetup #16** poteka v sredo, **23. septembra 2026, ob 18.00** v predavalnici Urbanističnega inštituta RS v Ljubljani. Pripravili smo dve predavanji — o SLOnčku, odprtokodni platformi za avtomatizirano replikacijo, upravljanje in analizo slovenskih javnih prostorskih podatkov na PostGIS in QGIS (Simon Koblar in Jakob Kmetič, UIRS; Matjaž Mori, ZUM), in o tehničnih novostih s svetovne konference FOSS4G 2026 v Hirošimi, kjer je bila OSGeo Slovenija v polni zasedbi (Alen Mangafić). Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}). Dogodek se bo snemal; kdor ne more v Ljubljano, ga lahko spremlja prek [Microsoft Teams](https://teams.microsoft.com/meet/396308877197169?p=JiPjaIa9pvN7cJ6zLf), geslo bo objavljeno na [Discordu](https://discord.gg/aJtB6VxG) uro pred dogodkom.
+**GeoDev Meetup #16** poteka v sredo, **23. septembra 2026, ob 18.00** v predavalnici Urbanističnega inštituta RS v Ljubljani. Pripravili smo dve predavanji — o SLOnčku, odprtokodni platformi za avtomatizirano replikacijo, upravljanje in analizo slovenskih javnih prostorskih podatkov na PostGIS in QGIS (Simon Koblar in Jakob Kmetič, UIRS; Matjaž Mori, ZUM), in o tehničnih novostih s svetovne konference FOSS4G 2026 v Hirošimi, kjer je bila OSGeo Slovenija v polni zasedbi (Alen Mangafić). Dogodek je brezplačen, prijava prek [Luma](https://luma.com/xbu56l9s). Dogodek se bo snemal; kdor ne more v Ljubljano, ga lahko spremlja prek [Microsoft Teams](https://teams.microsoft.com/meet/396308877197169?p=JiPjaIa9pvN7cJ6zLf), geslo bo objavljeno na [Discordu](https://discord.gg/aJtB6VxG) uro pred dogodkom.
