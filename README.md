@@ -6,7 +6,7 @@ This GitHub repository is place to store all Meetup Materials, presentations and
 
 ## Next Meetups 🚀
 
-__Datum__: Torek, 22.09.2026 ob 18:00
+__Datum__: Sreda, 23.09.2026 ob 18:00
 __Lokacija__: [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/), Trnovski pristan 2, 1000 Ljubljana
 [Vhod iz pasaže](https://www.openstreetmap.org/node/12504450770), predavalnica se nahaja v 2. nadstropju.
 
@@ -20,7 +20,7 @@ Draft roadmap for the next meetups:
 * __10.04.2025__: GeoDev Meetup #13       ✅
 * __11.11.2025__: GeoDev Meetup #14       ✅
 * __26.05.2026__: GeoDev Meetup #15       ✅
-* __22.09.2026__: GeoDev Meetup #16       🎯
+* __23.09.2026__: GeoDev Meetup #16       🎯
 
 ## Future Topics (Wish List) 🧞‍♂️
 

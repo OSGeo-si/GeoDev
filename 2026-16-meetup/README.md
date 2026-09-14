@@ -2,7 +2,7 @@
 
 📍 __Lokacija:__  [Urbanistični inštitut Republike Slovenije](https://www.uirs.si/sl-si/), Trnovski pristan 2, 1000 Ljubljana. [Vhod iz pasaže](https://www.openstreetmap.org/node/12504450770), predavalnica se nahaja v 2. nadstropju.
 
-📅 __Datum:__ torek, 22. september 2026
+📅 __Datum:__ sreda, 23. september 2026
 
 🕕 __Čas:__ 18:00
 
@@ -24,7 +24,7 @@ __FOSS4G 2026: kaj nas je sezulo__
 18:30 - 19:00
 Letošnja svetovna konferenca [FOSS4G](https://2026.foss4g.org/en/) je potekala v Hirošimi na Japonskem, OSGeo Slovenija pa se je je udeležila v polni zasedbi. Strnili bomo vtise s konference in dogajanja nasploh ter predstavili tehnične novosti, ki so nas najbolj navdušile: nove različice in funkcionalnosti ključnih odprtokodnih geoprostorskih orodij, formate in standarde, ki se uveljavljajo, ter projekte in trende, ki jih velja spremljati. Kaj lahko že jutri uporabimo doma in kaj nas je dobesedno sezulo.
 
-Alen Mangafić, OSGeo Slovenija
+Alen Mangafić, Geodetski inštitut Slovenije in OSGeo Slovenija
 
 
 __Druženje in mreženje ob pijači__
