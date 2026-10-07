@@ -1,7 +1,7 @@
 # GeoDev Meetup #17 - Promocijska besedila
 
 Besedila za napoved sedemnajstega GeoDev srečanja na različnih kanalih.
-**Datum:** sreda, 11. november 2026, 18.00 · **Lokacija:** TBD (Maribor, center) · **Kapaciteta:** 50
+**Datum:** sreda, 11. november 2026, 18.00 · **Lokacija:** Vetrinjc - BarCoda, Vetrinjski dvor, Maribor · **Kapaciteta:** 50
 **Prijava:** <{{LUMA_URL}}>
 **GitHub:** <https://github.com/OSGeo-si/GeoDev/blob/master/2026-17-meetup/README.md> · **Spletna stran:** <https://osgeo.si/#/dogodki/geodev-17>
 
@@ -15,7 +15,7 @@ Besedila za napoved sedemnajstega GeoDev srečanja na različnih kanalih.
 
 🍇 **GeoDev Slovenija #17** se tradicionalno vrača **na Martinovo v Maribor**! Prvo predavanje je že potrjeno, za drugo pa še iščemo predavatelja, ki bi povezal **vinogradništvo** ter **prostorske podatke in analize**.
 
-📍 Maribor, center (točna lokacija bo objavljena kmalu)
+📍 Vetrinjc - BarCoda, Vetrinjski dvor, Vetrinjska ulica 30, Maribor
 📅 sreda, 11. november 2026
 🕕 18.00
 
@@ -42,7 +42,7 @@ Dogodek je **brezplačen** in odprt vsem - od navdušencev do GIS profesionalcev
 
 Pozdravljeni!
 
-GeoDev Meetup Slovenija se tradicionalno seli **na Martinovo v Maribor**. Vabimo vas na **sedemnajsto srečanje** v **sredo, 11. novembra 2026, ob 18.00** v centru Maribora (točno lokacijo objavimo kmalu).
+GeoDev Meetup Slovenija se tradicionalno seli **na Martinovo v Maribor**. Vabimo vas na **sedemnajsto srečanje** v **sredo, 11. novembra 2026, ob 18.00** v Vetrinjcu - BarCodi v Vetrinjskem dvoru v Mariboru.
 
 ### Program
 
@@ -59,7 +59,7 @@ Drugo predavanje je še prosto! Glede na datum dogodka iščemo predavanje, ki b
 
 ### Kje in kdaj
 
-📍 **Maribor, center** (točna lokacija bo objavljena kmalu)
+📍 **Vetrinjc - BarCoda**, Vetrinjski dvor, Vetrinjska ulica 30, 2000 Maribor
 
 📅 **sreda, 11. november 2026**
 🕕 **18.00**
@@ -100,7 +100,7 @@ Drugo predavanje je še prosto! Glede na datum dogodka iščemo predavanje, ki b
 
 ## 📍 Kje?
 
-Maribor, center. Točna lokacija bo objavljena kmalu.
+Vetrinjc - BarCoda, Vetrinjski dvor, Vetrinjska ulica 30, Maribor.
 
 ## ℹ️ Ostalo
 
@@ -114,7 +114,7 @@ Dogodek je **brezplačen** in odprt vsem - od navdušencev do GIS profesionalcev
 
 ---
 
-🍇 **GeoDev Slovenija #17** - sreda, 11. november 2026, 18.00, Maribor (center). Tradicionalno na Martinovo!
+🍇 **GeoDev Slovenija #17** - sreda, 11. november 2026, 18.00, Vetrinjc - BarCoda, Maribor. Tradicionalno na Martinovo!
 
 Dve predavanji:
 • **Naslov kmalu** (Aljaž Žel, UM FERI)
@@ -130,7 +130,7 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Mariboru. Predava Aljaž Žel (UM FERI), za drugo predavanje iščemo temo o vinogradništvu in prostorskih podatkih. Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
+🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Vetrinjcu, Maribor. Predava Aljaž Žel (UM FERI), za drugo predavanje iščemo temo o vinogradništvu in prostorskih podatkih. Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
 
 ---
 
@@ -140,4 +140,4 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v centru Maribora (točna lokacija bo objavljena kmalu). Prvo predavanje bo imel Aljaž Žel (UM FERI), naslov objavimo kmalu. Za drugo predavanje še iščemo predavatelja: glede na datum bi radi slišali predavanje, ki poveže vinogradništvo ter prostorske podatke in analize. Če bi kaj želel povedati, piši na [nejc.dougan@flai.ai](mailto:nejc.dougan@flai.ai). Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}).
+**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v Vetrinjcu - BarCodi (Vetrinjski dvor) v Mariboru. Prvo predavanje bo imel Aljaž Žel (UM FERI), naslov objavimo kmalu. Za drugo predavanje še iščemo predavatelja: glede na datum bi radi slišali predavanje, ki poveže vinogradništvo ter prostorske podatke in analize. Če bi kaj želel povedati, piši na [nejc.dougan@flai.ai](mailto:nejc.dougan@flai.ai). Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}).

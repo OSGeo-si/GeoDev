@@ -1,6 +1,6 @@
 # GeoDev Meetup #17
 
-📍 __Lokacija:__  TBD (__Maribor__, center). Točna lokacija bo objavljena kmalu.
+📍 __Lokacija:__  [Vetrinjc - BarCoda](https://www.openstreetmap.org/node/5102758625), Vetrinjski dvor, Vetrinjska ulica 30, __Maribor__
 
 📅 __Datum:__ sreda, 11. november 2026
 
