@@ -38,7 +38,7 @@
     position: relative;
     overflow: hidden;
     box-sizing: border-box;
-    padding: 88px 80px 72px 80px;
+    padding: 80px 80px 60px 80px;
     display: flex; flex-direction: column;
   }
 
@@ -70,10 +70,10 @@
     border: 1px solid color-mix(in oklab, var(--moss-700) 8%, transparent);
   }
 
-  .logo { width: 460px; height: auto; position: relative; z-index: 2; }
+  .logo { width: 320px; height: auto; position: relative; z-index: 2; flex-shrink: 0; }
 
   .eyebrow {
-    margin-top: 64px;
+    margin-top: 36px;
     font-size: 22px;
     font-weight: 600;
     letter-spacing: 0.22em;
@@ -86,7 +86,7 @@
   h1 {
     font-family: var(--serif);
     font-weight: 600;
-    font-size: 116px;
+    font-size: 96px;
     line-height: 0.96;
     letter-spacing: -0.02em;
     margin: 28px 0 0 0;
@@ -99,7 +99,7 @@
   }
 
   .when {
-    margin-top: 44px;
+    margin-top: 32px;
     font-family: var(--serif);
     font-size: 40px;
     line-height: 1.18;
@@ -118,7 +118,7 @@
   .where strong { color: var(--moss-800); font-weight: 600; }
 
   .program {
-    margin-top: 64px;
+    margin-top: 36px;
     border-top: 1px solid color-mix(in oklab, var(--moss-700) 22%, transparent);
     padding-top: 32px;
   }
@@ -133,7 +133,7 @@
     display: grid;
     grid-template-columns: 84px 1fr;
     gap: 24px;
-    padding: 28px 0;
+    padding: 18px 0;
     border-bottom: 1px solid color-mix(in oklab, var(--moss-700) 12%, transparent);
   }
   .talk:last-child { border-bottom: none; padding-bottom: 18px; }
@@ -167,6 +167,12 @@
     max-width: 820px;
   }
 
+  .mingle {
+    margin: 8px 0 0 108px;
+    font-size: 22px;
+    color: color-mix(in oklab, var(--ink) 70%, transparent);
+  }
+  .mingle .t { font-family: var(--serif); font-style: italic; color: var(--moss-500); margin-right: 8px; }
   .foot {
     margin-top: auto;
     display: flex;
@@ -244,33 +250,36 @@
   </p>
 
   <div class="program">
-    <p class="program-label">Program · dve predavanji</p>
+    <p class="program-label">Program · tri predavanja</p>
 
     <div class="talk">
       <div class="idx">i.</div>
       <div class="body">
-        <p class="title">Naslov bo objavljen kmalu</p>
-        <p class="who">Aljaž Žel - <em>UM FERI</em></p>
-        <p class="lede">Predavanje je potrjeno, naslov in povzetek objavimo kmalu.</p>
+        <p class="title">Indeks 15-minutnega mesta: prostorska analiza dostopnosti do storitev na nivoju države</p>
+        <p class="who">Štefan Horvat - <em>UM FERI</em></p>
+        <p class="lede">Predstavitev aplikacije <strong>IRSI</strong>, ki za celotno Slovenijo oceni dostopnost osmih kategorij vsakodnevnih potreb v 15 minutah hoje ali kolesarjenja.</p>
       </div>
     </div>
 
     <div class="talk">
       <div class="idx">ii.</div>
       <div class="body">
-        <p class="title">Iščemo predavatelja: vinogradništvo in prostorski podatki</p>
-        <p class="who"><em>Še prosto - prijavi se!</em></p>
-        <p class="lede">Glede na Martinovo iščemo predavanje, ki poveže <strong>vinogradništvo</strong> s prostorskimi podatki in analizami. Imaš kaj povedati? Piši na <strong>nejc.dougan@flai.ai</strong>.</p>
+        <p class="title">Primerjava arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov</p>
+        <p class="who">Aljaž Žel - <em>UM FERI</em></p>
+        <p class="lede">Kako napovedovati vegetacijo, ko časovno vrsto satelitskih posnetkov redčijo <strong>oblaki</strong>: primerjava arhitektur modelov in napovednih cevovodov.</p>
       </div>
     </div>
 
     <div class="talk">
       <div class="idx">iii.</div>
       <div class="body">
-        <p class="title">Druženje in mreženje ob pijači</p>
-        <p class="who">od 19.00 dalje</p>
+        <p class="title">Iščemo predavatelja: vinogradništvo in prostorski podatki</p>
+        <p class="who"><em>Še prosto - prijavi se!</em></p>
+        <p class="lede">Glede na Martinovo iščemo predavanje o <strong>vinogradništvu</strong> in prostorskih podatkih. Piši na <strong>nejc.dougan@flai.ai</strong>.</p>
       </div>
     </div>
+
+    <p class="mingle"><span class="t">19.00 →</span> Druženje in mreženje ob pijači</p>
   </div>
 
   <div class="foot">
