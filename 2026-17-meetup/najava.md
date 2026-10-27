@@ -1,7 +1,7 @@
 # GeoDev Meetup #17 - Promocijska besedila
 
 Besedila za napoved sedemnajstega GeoDev srečanja na različnih kanalih.
-**Datum:** sreda, 11. november 2026, 18.00 · **Lokacija:** Vetrinjc - BarCoda, Vetrinjski dvor, Maribor · **Kapaciteta:** 50
+**Datum:** sreda, 11. november 2026, 18.00 · **Lokacija:** Tovarna podjemov (Venture Factory), Maribor · **Kapaciteta:** 50
 **Prijava:** <{{LUMA_URL}}>
 **GitHub:** <https://github.com/OSGeo-si/GeoDev/blob/master/2026-17-meetup/README.md> · **Spletna stran:** <https://osgeo.si/#/dogodki/geodev-17>
 
@@ -15,7 +15,7 @@ Besedila za napoved sedemnajstega GeoDev srečanja na različnih kanalih.
 
 🍇 **GeoDev Slovenija #17** se tradicionalno vrača **na Martinovo v Maribor**! Na sporedu sta dve predavanji kolegov z UM FERI: dostopnost storitev po vsej Sloveniji in napovedovanje vegetacije iz oblačnih satelitskih posnetkov.
 
-📍 Vetrinjc - BarCoda, Vetrinjski dvor, Vetrinjska ulica 30, Maribor
+📍 Tovarna podjemov (Venture Factory), Ulica škofa Maksimilijana Držečnika 6, Maribor
 📅 sreda, 11. november 2026
 🕕 18.00
 
@@ -42,7 +42,7 @@ Dogodek je **brezplačen** in odprt vsem - od navdušencev do GIS profesionalcev
 
 Pozdravljeni!
 
-GeoDev Meetup Slovenija se tradicionalno seli **na Martinovo v Maribor**. Vabimo vas na **sedemnajsto srečanje** v **sredo, 11. novembra 2026, ob 18.00** v Vetrinjcu - BarCodi v Vetrinjskem dvoru v Mariboru.
+GeoDev Meetup Slovenija se tradicionalno seli **na Martinovo v Maribor**. Vabimo vas na **sedemnajsto srečanje** v **sredo, 11. novembra 2026, ob 18.00** v Tovarni podjemov (Venture Factory) v Mariboru.
 
 ### Program
 
@@ -60,7 +60,7 @@ Kratkoročno napovedovanje vegetacije iz satelitskih posnetkov pogosto ovira obl
 
 ### Kje in kdaj
 
-📍 **Vetrinjc - BarCoda**, Vetrinjski dvor, Vetrinjska ulica 30, 2000 Maribor
+📍 **Tovarna podjemov (Venture Factory)**, Ulica škofa Maksimilijana Držečnika 6, 2000 Maribor
 
 📅 **sreda, 11. november 2026**
 🕕 **18.00**
@@ -102,7 +102,7 @@ Kratkoročno napovedovanje vegetacije iz satelitskih posnetkov pogosto ovira obl
 
 ## 📍 Kje?
 
-Vetrinjc - BarCoda, Vetrinjski dvor, Vetrinjska ulica 30, Maribor.
+Tovarna podjemov (Venture Factory), Ulica škofa Maksimilijana Držečnika 6, Maribor.
 
 ## ℹ️ Ostalo
 
@@ -116,7 +116,7 @@ Dogodek je **brezplačen** in odprt vsem - od navdušencev do GIS profesionalcev
 
 ---
 
-🍇 **GeoDev Slovenija #17** - sreda, 11. november 2026, 18.00, Vetrinjc - BarCoda, Maribor. Tradicionalno na Martinovo!
+🍇 **GeoDev Slovenija #17** - sreda, 11. november 2026, 18.00, Tovarna podjemov, Maribor. Tradicionalno na Martinovo!
 
 Dve predavanji:
 • **Indeks 15-minutnega mesta: prostorska analiza dostopnosti do storitev na nivoju države** (Štefan Horvat, UM FERI)
@@ -132,7 +132,7 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Vetrinjcu, Maribor. 15-minutno mesto (Š. Horvat) · vegetacija iz oblačnih satelitskih posnetkov (A. Žel). Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
+🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Tovarni podjemov, Maribor. 15-minutno mesto (Š. Horvat) · vegetacija iz oblačnih satelitskih posnetkov (A. Žel). Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
 
 ---
 
@@ -142,4 +142,4 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v Vetrinjcu - BarCodi (Vetrinjski dvor) v Mariboru. Štefan Horvat (UM FERI) bo predstavil indeks 15-minutnega mesta, prostorsko analizo dostopnosti do storitev na nivoju države, Aljaž Žel (UM FERI) pa primerjavo arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov. Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}).
+**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v Tovarni podjemov (Venture Factory) v Mariboru. Štefan Horvat (UM FERI) bo predstavil indeks 15-minutnega mesta, prostorsko analizo dostopnosti do storitev na nivoju države, Aljaž Žel (UM FERI) pa primerjavo arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov. Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}).

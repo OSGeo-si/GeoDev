@@ -7,7 +7,7 @@ This GitHub repository is place to store all Meetup Materials, presentations and
 ## Next Meetups 🚀
 
 __Datum__: Sreda, 11.11.2026 ob 18:00
-__Lokacija__: [Vetrinjc - BarCoda](https://www.openstreetmap.org/node/5102758625), Vetrinjski dvor, Vetrinjska ulica 30, 2000 Maribor
+__Lokacija__: [Tovarna podjemov (Venture Factory)](https://www.openstreetmap.org/?mlat=46.5596&mlon=15.6491#map=19/46.5596/15.6491), Ulica škofa Maksimilijana Držečnika 6, 2000 Maribor
 
 
 More details can be found here [GeoDev Meetup #17](2026-17-meetup/README.md).

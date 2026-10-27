@@ -1,6 +1,6 @@
 # GeoDev Meetup #17
 
-📍 __Lokacija:__  [Vetrinjc - BarCoda](https://www.openstreetmap.org/node/5102758625), Vetrinjski dvor, Vetrinjska ulica 30, __Maribor__
+📍 __Lokacija:__  [Tovarna podjemov (Venture Factory)](https://www.openstreetmap.org/?mlat=46.5596&mlon=15.6491#map=19/46.5596/15.6491), Ulica škofa Maksimilijana Držečnika 6, __Maribor__
 
 📅 __Datum:__ sreda, 11. november 2026
 
