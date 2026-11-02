@@ -2,7 +2,7 @@
 
 Besedila za napoved sedemnajstega GeoDev srečanja na različnih kanalih.
 **Datum:** sreda, 11. november 2026, 18.00 · **Lokacija:** Tovarna podjemov (Venture Factory), Maribor · **Kapaciteta:** 50
-**Prijava:** <{{LUMA_URL}}>
+**Prijava:** <https://luma.com/npo68nwq>
 **GitHub:** <https://github.com/OSGeo-si/GeoDev/blob/master/2026-17-meetup/README.md> · **Spletna stran:** <https://osgeo.si/#/dogodki/geodev-17>
 
 ---
@@ -67,7 +67,7 @@ Kratkoročno napovedovanje vegetacije iz satelitskih posnetkov pogosto ovira obl
 
 Dogodek je **brezplačen** in odprt vsem. Število mest je omejeno (50), zato priporočamo prijavo:
 
-👉 **[Prijavi se na dogodek]({{LUMA_URL}})**
+👉 **[Prijavi se na dogodek](https://luma.com/npo68nwq)**
 
 Se vidimo!
 
@@ -122,7 +122,7 @@ Dve predavanji:
 • **Indeks 15-minutnega mesta: prostorska analiza dostopnosti do storitev na nivoju države** (Štefan Horvat, UM FERI)
 • **Primerjava arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov** (Aljaž Žel, UM FERI)
 
-Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
+Omejeno število mest. Več o programu in prijava → https://luma.com/npo68nwq
 
 ---
 
@@ -132,7 +132,7 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Tovarni podjemov, Maribor. 15-minutno mesto (Š. Horvat) · vegetacija iz oblačnih satelitskih posnetkov (A. Žel). Brezplačno, prijava: {{LUMA_URL}} #GeoDev #OSGeo #GIS
+🍇 GeoDev #17 - na Martinovo, 11. nov 2026, 18.00 v Tovarni podjemov, Maribor. 15-minutno mesto (Š. Horvat) · vegetacija iz oblačnih satelitskih posnetkov (A. Žel). Brezplačno, prijava: https://luma.com/npo68nwq #GeoDev #OSGeo #GIS
 
 ---
 
@@ -142,4 +142,4 @@ Omejeno število mest. Več o programu in prijava → {{LUMA_URL}}
 
 ---
 
-**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v Tovarni podjemov (Venture Factory) v Mariboru. Štefan Horvat (UM FERI) bo predstavil indeks 15-minutnega mesta, prostorsko analizo dostopnosti do storitev na nivoju države, Aljaž Žel (UM FERI) pa primerjavo arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov. Dogodek je brezplačen, prijava prek [Luma]({{LUMA_URL}}).
+**GeoDev Meetup #17** poteka tradicionalno na Martinovo, v sredo, **11. novembra 2026, ob 18.00** v Tovarni podjemov (Venture Factory) v Mariboru. Štefan Horvat (UM FERI) bo predstavil indeks 15-minutnega mesta, prostorsko analizo dostopnosti do storitev na nivoju države, Aljaž Žel (UM FERI) pa primerjavo arhitektur modelov za napovedovanje vegetacije iz delno zakritih satelitskih posnetkov. Dogodek je brezplačen, prijava prek [Luma](https://luma.com/npo68nwq).

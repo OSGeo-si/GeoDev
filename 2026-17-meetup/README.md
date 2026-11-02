@@ -36,4 +36,4 @@ __Druženje in mreženje ob pijači__
 
 Dogodek je __brezplačen__ in odprt vsem. Pridruži se zabavnemu in poučnemu večeru z drugimi razvijalci in navdušenci nad geoprostorskimi rešitvami in podatki.
 
-Na dogodek se prijavi [TUKAJ]({{LUMA_URL}}). Število mest je omejeno (50).
+Na dogodek se prijavi [TUKAJ](https://luma.com/npo68nwq). Število mest je omejeno (50).
